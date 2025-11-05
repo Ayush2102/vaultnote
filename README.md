@@ -8,9 +8,13 @@ VaultNote is a secure, scalable backend service for creating and managing person
 - Secure note creation with AES encryption
 - Private and Public Notes
 - Note Expiry Support
+- Automatic Note Expiry via MongoDb TTL indexing
 - Tag-based Note Classification
 - MongoDB Atlas integration
 - Modular architecture for easy scaling
+
+> 🧠 Notes with an `expiresAt` timestamp are automatically deleted by MongoDB using a TTL (Time-To-Live) index, reducing storage usage and improving performance without manual cleanup.
+
 
 ## 🚀 Upcoming Enhancements
 

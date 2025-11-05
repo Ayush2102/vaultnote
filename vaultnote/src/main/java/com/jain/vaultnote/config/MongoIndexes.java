@@ -20,10 +20,16 @@ public class MongoIndexes {
         Index ttlIndex = new Index()
                 .on("expiresAt", Sort.Direction.ASC)
                 .expire(0);
-        mongoTemplate.indexOps(Note.class).ensureIndex(ttlIndex);
+        // Create TTL index asynchronously (non-blocking, preferred)
+        mongoTemplate.indexOps(Note.class).createIndex(ttlIndex);
 
-        // Optional: helpful secondary indexes for query optimization
-        mongoTemplate.indexOps(Note.class).ensureIndex(new Index().on("userId", Sort.Direction.ASC));
-        mongoTemplate.indexOps(Note.class).ensureIndex(new Index().on("isPublic", Sort.Direction.ASC));
+        // Secondary indexes for faster lookups
+        mongoTemplate.indexOps(Note.class).createIndex(
+                new Index().on("userId", Sort.Direction.ASC)
+        );
+
+        mongoTemplate.indexOps(Note.class).createIndex(
+                new Index().on("isPublic", Sort.Direction.ASC)
+        );
     }
 }
