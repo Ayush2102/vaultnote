@@ -4,15 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f6cdc8c-379b-4cf2-9446-4020b8e65085" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/first.iml" beforeDir="false" />
+    <list default="true" id="2d056bd1-144e-45ea-9ce1-c18fcfcf78db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vaultnote/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vaultnote/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/config/MongoIndexes.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/config/MongoIndexes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vaultnote-backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/VaultNoteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/VaultNoteApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/cache/AppCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/cache/AppCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/config/MongoIndexes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/config/MongoIndexes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/config/SpringSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/config/SpringSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/controller/NoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/controller/PublicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/controller/PublicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/dto/LoginRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/dto/LoginRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/dto/NoteRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/dto/NoteRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/dto/NoteResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/dto/NoteResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/entity/ConfigVaultNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/entity/ConfigVaultNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/entity/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/entity/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/filter/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/filter/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/mapper/NoteMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/mapper/NoteMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/repository/ConfigVaultNoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/repository/ConfigVaultNoteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/repository/NoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/repository/NoteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/service/NoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/service/NoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/service/UserDetailsServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/service/UserDetailsServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/utils/EncryptionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/utils/EncryptionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/main/java/com/jain/vaultnote/utils/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jain/vaultnote/utils/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaultnote/src/test/java/com/jain/vaultnote/VaultNoteApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jain/vaultnote/VaultNoteApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +54,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="354QbxwLBTj3EHJ6k9jVwi1e5z3" />
+  <component name="ProjectId" id="354XG1iRFijCJNOA6zxQr7YXmZs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.VaultNote.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "restruct",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Projects/Vault Note/vaultnote-backend",
@@ -64,14 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="vaultnote-backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="vaultnote-backend" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f6cdc8c-379b-4cf2-9446-4020b8e65085" name="Changes" comment="" />
-      <created>1762366938855</created>
+      <changelist id="2d056bd1-144e-45ea-9ce1-c18fcfcf78db" name="Changes" comment="" />
+      <created>1762370218191</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1762366938855</updated>
+      <updated>1762370218191</updated>
     </task>
     <servers />
   </component>
